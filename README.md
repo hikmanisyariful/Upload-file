@@ -1,2 +1,2 @@
-npm install
-npm run legacy
+- npm install
+- npm run legacy
